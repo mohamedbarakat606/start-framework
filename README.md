@@ -52,7 +52,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/start-framework.git
+   git clone https://github.com/mohamedbarakat606/start-framework.git
    cd start-framework
    ```
 
@@ -102,7 +102,7 @@ src/
 ## 👨‍💻 Author
 
 **Mohamed Abdelrehem**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@mohamedbarakat606](https://github.com/mohamedbarakat606)
 
 ## 📄 License
 
