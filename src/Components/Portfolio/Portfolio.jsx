@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import imgs from "../../assets/images/images"
 import "./portfolio.css";
 import Modal from "../Modal/Modal";
-import Item from "../Item/item";
+import Item from "../Item/Item";
 
 const {port1,port2,port3} =  imgs
 
