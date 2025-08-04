@@ -1,0 +1,23 @@
+.inner {
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.inner:hover {
+  transform: scale(1.05);
+}
+
+.layer {
+  background-color: rgba(26, 188, 156, 0.8);
+  opacity: 0;
+  transition: all 0.3s;
+}
+
+.layer i {
+  color: white;
+  font-size: 3rem;
+}
+
+.inner:hover .layer {
+  opacity: 1;
+} 
